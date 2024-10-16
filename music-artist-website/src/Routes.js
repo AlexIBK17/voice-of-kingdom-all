@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import"./App.css";
+import "./App.css";
 import Home from "./Pages/Landing/Home";
 import Contact from "./components/Contact";
 import Layout from "./components/Layout/Layout";
@@ -19,9 +19,8 @@ const AppRoutes = () => {
             //   overlayText=""
             //   textColor="#FFD700"
             // >
-              
+
             // </Layout>
-           
           }
         />
         <Route

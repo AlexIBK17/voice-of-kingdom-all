@@ -1,9 +1,11 @@
 .App {
+  display: flex;
   text-align: center;
+  justify-content: center;
 }
 
-h1{
-  font-size:xx-large;
+h1 {
+  font-size: xx-large;
   font-weight: 600;
   color: #cc9600;
 }
@@ -42,4 +44,3 @@ h1{
     transform: rotate(360deg);
   }
 }
-
